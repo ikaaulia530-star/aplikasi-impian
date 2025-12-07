@@ -7,5 +7,6 @@ Repository untuk belajar manajemen konfigurasi, khususnya version control dengan
 
 ## Progress Belajar
 - [ ] Setup Git lokal
-- [ ] Buat repository GitHub
-- [ ] Commit pertama
+- [x] Buat repository GitHub
+- [x] Commit pertama
+
